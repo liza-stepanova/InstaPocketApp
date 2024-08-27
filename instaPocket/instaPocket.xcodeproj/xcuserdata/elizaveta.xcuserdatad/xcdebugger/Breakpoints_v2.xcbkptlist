@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D332F512-2903-48B4-82D8-5B0ADE2BE97B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D1193C6-022B-463D-8164-DBB2D460C196"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "instaPocket/Module/PasscodeModule/View/PasscodeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "153"
+            endingLineNumber = "153"
+            landmarkName = "enterCode(code:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1D1193C6-022B-463D-8164-DBB2D460C196 - 69b4d315b2ec7dc6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "instaPocket.PasscodeView.enterCode(code: Swift.Array&lt;Swift.Int&gt;) -&gt; ()"
+                  moduleName = "instaPocket"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elizaveta/Desktop/Swift/instaPocket/instaPocket/Module/PasscodeModule/View/PasscodeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "1D1193C6-022B-463D-8164-DBB2D460C196 - 69b4d315b2ec7dc6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "instaPocket.PasscodeView.enterCode(code: Swift.Array&lt;Swift.Int&gt;) -&gt; ()"
+                  moduleName = "instaPocket"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elizaveta/Desktop/Swift/instaPocket/instaPocket/Module/PasscodeModule/View/PasscodeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "1D1193C6-022B-463D-8164-DBB2D460C196 - 4d303bc0936cf20b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int) -&gt; () in instaPocket.PasscodeView.enterCode(code: Swift.Array&lt;Swift.Int&gt;) -&gt; ()"
+                  moduleName = "instaPocket"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elizaveta/Desktop/Swift/instaPocket/instaPocket/Module/PasscodeModule/View/PasscodeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4DC8230E-A4E0-4415-8045-F4FCDDEF21E9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "instaPocket/Module/PasscodeModule/View/PasscodeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "156"
+            endingLineNumber = "156"
+            landmarkName = "enterCode(code:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4DC8230E-A4E0-4415-8045-F4FCDDEF21E9 - 5bccf0191d6a58f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "instaPocket.PasscodeView.passcodeState(state: instaPocket.PasscodeState) -&gt; ()"
+                  moduleName = "instaPocket"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elizaveta/Desktop/Swift/instaPocket/instaPocket/Module/PasscodeModule/View/PasscodeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "4DC8230E-A4E0-4415-8045-F4FCDDEF21E9 - 69b4d315b2ec7d5b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "instaPocket.PasscodeView.enterCode(code: Swift.Array&lt;Swift.Int&gt;) -&gt; ()"
+                  moduleName = "instaPocket"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elizaveta/Desktop/Swift/instaPocket/instaPocket/Module/PasscodeModule/View/PasscodeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "532">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EDBBFB60-111C-4BDB-B04D-79915F54CA83"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "instaPocket/StorageManager/CoreManager/Model/PostItem+CoreDataClass.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3963CB22-48F9-4F15-8688-77CB749B9338"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "instaPocket/StorageManager/CoreManager/CoreManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "savePost(post:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3963CB22-48F9-4F15-8688-77CB749B9338 - d65db38ef9a6ffe5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "instaPocket.CoreManager.savePost(post: instaPocket.PostItem) -&gt; ()"
+                  moduleName = "instaPocket"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elizaveta/Desktop/Swift/instaPocket/instaPocket/StorageManager/CoreManager/CoreManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "1088">
+               </Location>
+               <Location
+                  uuid = "3963CB22-48F9-4F15-8688-77CB749B9338 - d65db38ef9a6ffe5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "instaPocket.CoreManager.savePost(post: instaPocket.PostItem) -&gt; ()"
+                  moduleName = "instaPocket"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elizaveta/Desktop/Swift/instaPocket/instaPocket/StorageManager/CoreManager/CoreManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "780">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
